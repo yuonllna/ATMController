@@ -21,10 +21,10 @@ javac -d out src/main/controller/*.java src/test/*.java
 ### 3. Run the Tests
 ```bash
 java -cp out test.ATMControllerTest
-```
+```   
 
 ## 🧪 About Test Cases
-The project includes *ATMControllerTest.java* to validate ATM functionalities.\n
+The project includes *ATMControllerTest.java* to validate ATM functionalities.   
 Below are the test cases implemented in the project:
 | **Test Case**                        | **Description** |
 |--------------------------------------|---------------|
