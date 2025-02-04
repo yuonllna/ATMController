@@ -24,7 +24,7 @@ java -cp out test.ATMControllerTest
 ```   
 
 ## 🧪 About Test Cases
-The project includes *ATMControllerTest.java* to validate ATM functionalities.   
+The project includes ***ATMControllerTest.java*** to validate ATM functionalities.   
 Below are the test cases implemented in the project:
 | **Test Case**                        | **Description** |
 |--------------------------------------|---------------|
